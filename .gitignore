@@ -4,5 +4,5 @@ large_data
 html_archive
 *.0
 dbpedia_data
-
-
+glove.6B.100d.txt
+numberbatch-en-17.04b.txt
